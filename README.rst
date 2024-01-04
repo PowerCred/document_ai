@@ -20,7 +20,7 @@ PowerCred Document AI
 
 
 * Free software: MIT license
-* Documentation: https://powercred-document-ai.readthedocs.io.
+* Documentation: https://document-ai.readthedocs.io.
 
 
 Features

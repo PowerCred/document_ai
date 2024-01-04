@@ -12,6 +12,9 @@ Welcome to PowerCred Document AI's documentation!
    contributing
    authors
    history
+   document_ai.filesystem
+   document_ai
+   document_ai.utils
 
 Indices and tables
 ==================
