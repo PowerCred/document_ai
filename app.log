@@ -1,0 +1,5 @@
+2024-01-04 14:31:58,015 - powercred_document_ai.auth - ERROR - Unexpected Error in get_session_token: name 'ContentTypeError' is not defined
+2024-01-04 14:32:46,776 - powercred_document_ai.auth - ERROR - Unexpected Error in get_session_token: name 'ContentTypeError' is not defined
+2024-01-04 14:32:56,482 - powercred_document_ai.auth - ERROR - Unexpected Error in get_session_token: name 'ContentTypeError' is not defined
+2024-01-04 14:32:56,482 - powercred_document_ai.auth - ERROR - Unexpected Error in get_session_token: name 'ContentTypeError' is not defined
+2024-01-04 14:33:16,317 - powercred_document_ai.auth - ERROR - Error in get_session_token: 'str' object has no attribute 'keys'
