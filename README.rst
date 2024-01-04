@@ -1,5 +1,5 @@
 =====================
-PowerCred Document AI
+PowerCreds Document AI
 =====================
 
 
