@@ -9,8 +9,8 @@ PowerCreds Document AI
 .. image:: https://img.shields.io/travis/PowerCred/document_ai.svg
         :target: https://travis-ci.com/PowerCred/document_ai
 
-.. image:: https://readthedocs.org/projects/powercred-document-ai/badge/?version=latest
-        :target: https://powercred-document-ai.readthedocs.io/en/latest/?version=latest
+.. image:: https://readthedocs.org/projects/document-ai/badge/?version=latest
+        :target: https://document-ai.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
 
